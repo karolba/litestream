@@ -64,6 +64,7 @@ func init() {
 			}
 			return nil
 		},
+		Extensions: []string{"unishox1"},
 	})
 }
 
